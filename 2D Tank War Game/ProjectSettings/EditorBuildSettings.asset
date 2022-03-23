@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 14411774aeff8fa4993ba1af77ae4ee6
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/OneMoreEnemyLeft.unity
+    guid: 4cd791ffca1c7974a9d057df873c49d8
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: f99fdb8aed9631a40ade07fec11936b7
+  - enabled: 1
+    path: Assets/Scenes/GameOver1.unity
+    guid: 9d578ea95916b76448f8b848e3823f22
+  m_configObjects: {}
